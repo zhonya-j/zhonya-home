@@ -41,7 +41,7 @@
     Using Python
     <br>
     <em>
-      in <a href="https://www.acmicpc.net/user/john1752" rel="nofollow">baekjoon</a> and <a href="https://programmers.co.kr/users/profile" rel="nofollow">Programmers</a>
+      in <a href="https://www.acmicpc.net/user/zhonya_j" rel="nofollow">baekjoon</a> and <a href="https://programmers.co.kr/users/profile" rel="nofollow">Programmers</a>
     </em>
   </p>
 </blockquote>
