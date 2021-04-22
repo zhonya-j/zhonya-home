@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=hwan's%20Github&fontSize=40)
 
-### 아직은 배울게 많은 초보 개발자입니다🥺&nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="24px">
+### 코린이_배울게 너무 많다...🥺&nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="24px">
 <br/>
 <br/>
 
@@ -30,7 +30,7 @@
 <br/>
 
 
-![hwan1753's github stats](https://github-readme-stats.vercel.app/api?username=hwan1753&show_icons=true&theme=synthwave)
+![zhonya-j's github stats](https://github-readme-stats.vercel.app/api?username=zhonya-j&show_icons=true&theme=synthwave)
 
 
 ### Problem Solving / Online Judge 💻
@@ -47,20 +47,20 @@
 </blockquote>
 
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=john1752)](https://solved.ac/john1752)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=zhonya_j)](https://solved.ac/zhonya_j)
 
 ### Contacts 📫
 
 * Email : jhmk1752@naver.com
-* BOJ : [john1752](https://www.acmicpc.net/user/john1752)
-* Programmers : [john1752](https://programmers.co.kr/users/profile)
+* BOJ : [zhonya_j](https://www.acmicpc.net/user/zhonya_j)
+* Programmers : [jjya1b2c3vu](https://programmers.co.kr/users/profile)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
 
 <!--
 
-**hwan1753/hwan1753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**zhonya-j/zhonya-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
