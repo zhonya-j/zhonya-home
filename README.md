@@ -51,7 +51,7 @@
 
 ### Contacts 📫
 
-* Email : jhmk1752@naver.com
+* Email : ----
 * BOJ : [zhonya_j](https://www.acmicpc.net/user/zhonya_j)
 * Programmers : [jjya1b2c3vu](https://programmers.co.kr/users/profile)
 
