@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-### 👩‍💻  
+###공부중인  👩‍💻  
 
 <p align="center">
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
