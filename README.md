@@ -6,8 +6,7 @@
 <br/>
 <br/>
 
-### 공부중인
-👩‍💻  
+### 공부중인 👩‍💻  
 
 <p align="center">
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -20,6 +19,8 @@
     <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
     <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://camo.githubusercontent.com/b751db9e3e2cfaf23ac33b24e48b5db4066a94a59731cfa5dc46971a7080785f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465"/>
+    
 </p>
 
 <p>
