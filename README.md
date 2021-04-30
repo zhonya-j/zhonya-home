@@ -19,10 +19,9 @@
     <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
     <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React%20-%https://simpleicons.org/icons/react.svg?&style=for-the-badge&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/React%20-%23121011.svg?&style=for-the-badge&logo=React&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React%20-%23121011.svg?&style=for-the-badge&logo=React&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React%20-%23121011.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JS%20-%23121011.svg?&style=for-the-badge&logo=JS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS%20-%23121011.svg?&style=for-the-badge&logo=CSS&logoColor=white"/>
     
 </p>
 
